@@ -1,15 +1,18 @@
 package priv.gongcheng;
 
 public class HelloWorld {
-	private static String say="不是让你怀念前任\r\n" + 
-			"是告诉你要珍惜眼前人\r\n" + 
-			"不要等失去了才知道后悔\r\n" + 
-			"不要让爱你的现任变成前任\r\n" + 
-			"不负遇见";
+	private static String say="锟斤拷锟斤拷锟斤拷锟姐怀锟斤拷前锟斤拷\r\n" + 
+			"锟角革拷锟斤拷锟斤拷要锟斤拷惜锟斤拷前锟斤拷\r\n" + 
+			"锟斤拷要锟斤拷失去锟剿诧拷知锟斤拷锟斤拷锟絓r\n" + 
+			"锟斤拷要锟矫帮拷锟斤拷锟斤拷锟斤拷伪锟斤拷前锟斤拷\r\n" + 
+			"锟斤拷锟斤拷锟斤拷锟斤拷";
+	public void post() {
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("前任3"+say);
+		System.out.println("前锟斤拷3"+say);
 
 	}
+	
 
 }

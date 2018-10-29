@@ -11,10 +11,5 @@ public class HelloWorld {
 		System.out.println("ǰ��3"+say);
 
 	}
-	private void syso() {
-		// TODO Auto-generated method stub
-
-	}
 	
-
 }

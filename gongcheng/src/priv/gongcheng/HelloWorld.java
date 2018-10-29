@@ -7,7 +7,7 @@ public class HelloWorld {
 			"��Ҫ�ð�������α��ǰ��\r\n" + 
 			"��������";
 	public void ll() {
-		System.out.println("lalaaa");
+		System.out.println("lal");
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

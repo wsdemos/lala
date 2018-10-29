@@ -6,7 +6,8 @@ public class HelloWorld {
 			"��Ҫ��ʧȥ�˲�֪�����\r\n" + 
 			"��Ҫ�ð�������α��ǰ��\r\n" + 
 			"��������";
-	public void post() {
+	public void ll() {
+		
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
